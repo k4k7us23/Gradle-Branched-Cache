@@ -1,4 +1,4 @@
-package com.k4k7us23.gradlebranchedcache.vcs
+package io.github.k4k7us23.gradlebranchedcache.vcs
 
 import java.security.MessageDigest
 

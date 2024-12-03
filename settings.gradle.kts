@@ -5,7 +5,7 @@ pluginManagement {
 }
 
 plugins {
-    id("com.k4k7us23.gradlebranchedcache")
+    id("io.github.k4k7us23.gradlebranchedcache")
 }
 
 includeBuild("sample")

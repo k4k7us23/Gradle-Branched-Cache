@@ -1,4 +1,4 @@
-package com.k4ktus23.sample
+package io.github.k4k7us23.sample
 
 fun main() {
     val counter = Counter()

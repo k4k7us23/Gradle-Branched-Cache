@@ -11,8 +11,8 @@ plugins {
 gradlePlugin {
     plugins {
         create("gradleBranchedCache") {
-            id = "com.k4k7us23.gradlebranchedcache"
-            implementationClass = "com.k4k7us23.gradlebranchedcache.GradleBranchedCachePlugin"
+            id = "io.github.k4k7us23.gradlebranchedcache"
+            implementationClass = "io.github.k4k7us23.gradlebranchedcache.GradleBranchedCachePlugin"
         }
     }
 }

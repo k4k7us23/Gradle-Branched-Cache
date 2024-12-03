@@ -1,4 +1,4 @@
-package com.k4k7us23.gradlebranchedcache
+package io.github.k4k7us23.gradlebranchedcache
 
 import org.gradle.api.Action
 import org.gradle.caching.http.HttpBuildCacheCredentials
