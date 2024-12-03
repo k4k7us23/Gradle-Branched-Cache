@@ -1,7 +1,7 @@
-package com.k4k7us23.gradlebranchedcache
+package io.github.k4k7us23.gradlebranchedcache
 
-import com.k4k7us23.gradlebranchedcache.vcs.BranchCacheKeyProvider
-import com.k4k7us23.gradlebranchedcache.vcs.GitVCS
+import io.github.k4k7us23.gradlebranchedcache.vcs.BranchCacheKeyProvider
+import io.github.k4k7us23.gradlebranchedcache.vcs.GitVCS
 import org.gradle.api.Plugin
 import org.gradle.api.initialization.Settings
 import org.gradle.caching.http.HttpBuildCache

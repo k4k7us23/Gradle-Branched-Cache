@@ -1,4 +1,4 @@
-package com.k4k7us23.gradlebranchedcache.vcs
+package io.github.k4k7us23.gradlebranchedcache.vcs
 
 // TODO implement unit-test
 class GitVCS : IVCS {
