@@ -15,6 +15,8 @@ open class GradleBranchedCachePluginExtension {
 
     val credentials: HttpBuildCacheCredentials = HttpBuildCacheCredentials()
 
+    var branchNameOverride: String? = null
+
     fun credentials(action: Action<HttpBuildCacheCredentials>) {
         action.execute(credentials)
     }
